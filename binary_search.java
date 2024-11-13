@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 class BinarySearch {
     int binarySearch(int a[], int l, int r, int x) {
         while (l <= r) {
