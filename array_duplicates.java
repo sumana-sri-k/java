@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 class Main {
-    static List<Integer> findDuplicates(int[] arr) {
+    static List<Integer> findDuplicates(int[] arr) { 
         List<Integer> res = new ArrayList<>();
 
         for (int i = 0; i < arr.length - 1; i++) {
